@@ -1,4 +1,4 @@
-### Hi there I'm Rubén 👋 😎
+### Hi there! I'm Rubén 👋 😎
 <hr/>
 I'm a spanish software developer for 2 years.
 
@@ -6,7 +6,7 @@ I'm a spanish software developer for 2 years.
 - 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>)
 <br/>
 
-###⚡ Technologies
+### ⚡ Technologies
 <hr/>
 
 <!--
