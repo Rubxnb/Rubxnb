@@ -2,8 +2,8 @@
 
 I'm a spanish <strong>Full Stack Developer</strong>.
 
-- 🔭 I’m currently working on <strong>.NET</strong> proyects
-- 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>)
+- 🔭 I’m currently working on <strong>.NET</strong> proyects.
+- 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>).
 <hr/>
 
 <h2>⚡ Technologies</h2>
