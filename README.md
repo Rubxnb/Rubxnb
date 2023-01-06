@@ -10,7 +10,7 @@ I'm a spanish <strong>Full Stack Developer</strong>.
 <h2>⚡ Technologies</h2>
 <ul>
   <li>.NET | C# | Windows Forms | WPF </li>
-  <li><code><img src='https://img.freepik.com/iconos-gratis/androide_318-674214.jpg?w=2000' width='20"' height='auto' style='border-radius:50%'></code>Android Studio</li>
+  <li>Android Studio</li>
   <li>Dart | Flutter</li>
   <li>Python </li>
   <li>Java</li>
@@ -23,7 +23,7 @@ I'm a spanish <strong>Full Stack Developer</strong>.
 **Rubxnb/Rubxnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<code><img src='https://img.freepik.com/iconos-gratis/androide_318-674214.jpg?w=2000' width='20"' height='auto' style='border-radius:50%'></code>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
