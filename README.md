@@ -10,7 +10,7 @@ I'm a spanish <strong>Full Stack Developer</strong>.
 <h2>⚡ Technologies</h2>
 <ul>
   <li>.NET | C# | Windows Forms | WPF </li>
-  <li><code><img src='https://developer.android.com/static/images/landing/android-logo.svg' width='20"' height='auto' style='border-radius:50%'></code>Android Studio</li>
+  <li><code><img src='https://img.freepik.com/iconos-gratis/androide_318-674214.jpg?w=2000' width='20"' height='auto' style='border-radius:50%'></code>Android Studio</li>
   <li>Dart | Flutter</li>
   <li>Python </li>
   <li>Java</li>
