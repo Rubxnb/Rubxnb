@@ -12,6 +12,8 @@ I'm a spanish software developer for 2 years.
   <li>Android Studio</li>
   <li>Dart | Flutter</li>
   <li>Python </li>
+  <li>Enterprise Resource Planning | Sage | Odoo</li>
+  <li>Photoshop </li>
 </ul>
 <hr/>
 <!--
