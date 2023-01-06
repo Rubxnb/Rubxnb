@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Rubén 👋 😎</h1>
 
-I'm a spanish <strong>Full Stack Developer</strong> for 2 years.
+I'm a spanish <strong>Full Stack Developer</strong>.
 
 - 🔭 I’m currently working on <strong>.NET</strong> proyects
 - 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>)
