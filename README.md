@@ -1,14 +1,19 @@
-### Hi there! I'm Rubén 👋 😎
-<hr/>
+<h1>Hi there! I'm Rubén 👋 😎</h1>
+
 I'm a spanish software developer for 2 years.
 
 - 🔭 I’m currently working on <strong>.NET</string> proyects
 - 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>)
-<br/>
-
-### ⚡ Technologies
 <hr/>
 
+<h2>⚡ Technologies</h2>
+<ul>
+  <li>.NET | C# | Windows Forms | WPF </li>
+  <li>Android Studio</li>
+  <li>Dart | Flutter</li>
+  <li>Python </li>
+</ul>
+<hr/>
 <!--
 **Rubxnb/Rubxnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
