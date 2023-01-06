@@ -3,7 +3,7 @@
 
 I'm a spanish <strong>Full Stack Developer</strong>.
 
-- 🔭 Working on <strong>.NET</strong> proyects.
+- 🔭 Working on <strong>.NET</strong> projects.
 - 🌱 Learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>).
 <hr/>
 
