@@ -2,7 +2,7 @@
 
 I'm a spanish software developer for 2 years.
 
-- 🔭 I’m currently working on <strong>.NET</string> proyects
+- 🔭 I’m currently working on <strong>.NET</strong> proyects
 - 🌱 I’m currently learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>)
 <hr/>
 
