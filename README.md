@@ -1,4 +1,4 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/67047753/211028257-ab425887-805c-4fdc-b129-4214aedf4f0b.jpg' width='200"'>
 <h1>Hi there! I'm Rubén 👋 😎</h1>
 
 I'm a spanish <strong>Full Stack Developer</strong>.
