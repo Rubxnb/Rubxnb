@@ -10,7 +10,7 @@ I'm a spanish <strong>Full Stack Developer</strong>.
 <h2>⚡ Technologies</h2>
 <ul>
   <li>.NET | C# | Windows Forms | WPF </li>
-  <li><code><img align='right' src='https://user-images.githubusercontent.com/67047753/211030889-5ec410eb-913b-48fe-8b4d-bca9c7bbebd8.png' width='200"' height='auto' style='border-radius:50%'></code>Android Studio</li>
+  <li><code><img src='https://user-images.githubusercontent.com/67047753/211030889-5ec410eb-913b-48fe-8b4d-bca9c7bbebd8.png' width='20"' height='auto' style='border-radius:50%'></code>Android Studio</li>
   <li>Dart | Flutter</li>
   <li>Python </li>
   <li>Java</li>
