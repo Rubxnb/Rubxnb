@@ -10,10 +10,10 @@ I'm a spanish <strong>Full Stack Developer</strong>.
 <h2>⚡ Technologies</h2>
 <ul>
   <li>.NET | C# | Windows Forms | WPF </li>
-  <li>Android Studio</li>
   <li>Dart | Flutter</li>
-  <li>Python </li>
+  <li>Android Studio</li>
   <li>Java</li>
+  <li>Python </li>
   <li>Unity</li>
   <li>Enterprise Resource Planning | Sage | Odoo</li>
   <li>Photoshop </li>
