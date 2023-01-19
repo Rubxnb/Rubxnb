@@ -4,7 +4,7 @@
 I'm a spanish <strong>Full Stack Developer</strong>.
 
 - 🔭 Working on <strong>.NET</strong> projects.
-- 🌱 Learning web development (<strong>JavaString</strong> and <strong>ReactJS</strong>).
+- 🌱 Learning web development (<strong>JavaScript</strong> and <strong>ReactJS</strong>).
 <hr/>
 
 <h2>⚡ Technologies</h2>
