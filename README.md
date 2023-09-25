@@ -3,12 +3,13 @@
 
 I'm a spanish <strong>Full Stack Developer</strong>.
 
-- 🔭 Working on <strong>.NET</strong> projects.
+- 🔭 Working on <strong>VUE</strong> projects.
 - 🌱 Learning web development (<strong>JavaScript</strong> and <strong>ReactJS</strong>).
 <hr/>
 
 <h2>⚡ Technologies</h2>
 <ul>
+  <li>VUE | JavaScript</li>
   <li>.NET | C# | Windows Forms | WPF </li>
   <li>Dart | Flutter</li>
   <li>Android Studio</li>
